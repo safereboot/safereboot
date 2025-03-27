@@ -2,5 +2,5 @@
 [Coming soon]
 
 ## Socials
-- X : [SafeReboot](https://x.com/SafeReboot)
-- Instagram : [safe.reboot](https://www.instagram.com/safe.reboot/)
+- [X/ Twitter](https://x.com/SafeReboot)
+- [Instagram](https://www.instagram.com/safe.reboot/)
